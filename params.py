@@ -1,0 +1,2 @@
+CELLS_X = 8
+CELLS_Y = 6
